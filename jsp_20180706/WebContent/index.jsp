@@ -21,7 +21,7 @@ session.setAttribute("data", "session Set");
 application.setAttribute("data", "application Set");
 %>
 <h1>첫페이지</h1>
-
+<h1>OpenProject</h1>
 <a href="page1.jsp">페이지 1</a>
 <a href="page2.jsp">페이지 2</a>
 <a href="page3.jsp">페이지 3</a>
